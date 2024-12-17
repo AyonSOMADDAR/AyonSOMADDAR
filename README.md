@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing & Generative AI.
 - 📫 How to reach me: [ayonsomaddar@gmail.com](mailto:ayonsomaddar@gmail.com)
+- LinkedIn: [Ayon Somaddar](https://www.linkedin.com/in/ayonsomaddar/)
 - ⚡ Fun fact: I love solving puzzles and playing chess
 
 ## Skills
