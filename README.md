@@ -4,11 +4,10 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## About Me
 
-- 🔭 I’m currently working on [Comprehensive Document Processing API](https://github.com/AyonSOMADDAR/Portal-Automation)
 - 🌱 I’m currently learning advanced AI techniques and cloud computing
 - 👯 I’m looking to collaborate on open-source projects
-- 💬 Ask me about FastAPI, Docker, and AI
-- 📫 How to reach me: [ayonsomaddar@example.com](mailto:ayonsomaddar@example.com)
+- 💬 Ask me about Artificial Intelligenve, Machine Learning, Deep Learning, Natural Language Processing & Generative AI.
+- 📫 How to reach me: [ayonsomaddar@gmail.com](mailto:ayonsomaddar@gmail.com)
 - ⚡ Fun fact: I love solving puzzles and playing chess
 
 ## Skills
