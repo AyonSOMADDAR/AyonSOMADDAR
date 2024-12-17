@@ -50,19 +50,10 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 
 
-## Projects
-
-### [Comprehensive Document Processing API](https://github.com/AyonSOMADDAR/Portal-Automation)
-An AI-powered document processing, OCR, and information extraction service built with FastAPI.
-
-### [Another Project](https://github.com/AyonSOMADDAR/another-repo-name)
-A brief description of another project you have worked on.
-
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/ayonsomaddar)
-- [Twitter](https://twitter.com/ayonsomaddar)
-- [Personal Website](https://ayonsomaddar.com)
+- [Email](ayonsomaddar@gmail.com)
 
 ## GitHub Stats
 
@@ -70,9 +61,5 @@ A brief description of another project you have worked on.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyonSOMADDAR&layout=compact&theme=radical)
 
-## Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 Thank you for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
